@@ -13,7 +13,8 @@ Develop a comprehensive report for the following exercises : Explain the foundat
 4.Record outputs and write the report.
 
 ## Output
-📄 [View Generative AI Report](https://github.com/<username>/<repo>/raw/main/Generative%20AI.pdf)
+[Generative AI.pdf](https://github.com/user-attachments/files/22002477/Generative.AI.pdf)
+
 
 
 
