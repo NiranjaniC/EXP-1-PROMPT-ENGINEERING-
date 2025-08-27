@@ -13,7 +13,8 @@ Develop a comprehensive report for the following exercises : Explain the foundat
 4.Record outputs and write the report.
 
 ## Output
-[Generative AI and Large Language Models.pdf](https://github.com/user-attachments/files/22002170/Generative.AI.and.Large.Language.Models.pdf)
+[Generative AI and Large Language Models.pdf](https://github.com/username/repo/blob/main/Generative.AI.and.Large.Language.Models.pdf)
+
 
 ## Result
 The experiment showed that prompt design greatly improves the quality of outputs from LLMs. It successfully demonstrated Generative AI concepts, architectures, applications, and scaling impacts.
